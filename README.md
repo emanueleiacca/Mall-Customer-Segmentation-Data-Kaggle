@@ -23,8 +23,5 @@ The analysis begins with data preprocessing, including cleaning and standardizat
 ## Results and Discussion
 The analysis revealed that while KMeans is a popular choice for clustering, other methods like Affinity Propagation showed promising results in this context. The project demonstrates the importance of comparing different algorithms to find the most suitable one for specific datasets and objectives.
 
-## Conclusion and Future Work
-This case study highlights the potential of using unsupervised learning techniques for customer segmentation in the retail industry. Future work could explore more advanced techniques and hyperparameter tuning to refine the segmentation further and potentially incorporate additional data sources for deeper insights.
-
-## Acknowledgements
-This project was inspired by the Machine Learning A-Z course on Udemy. It is intended for educational purposes and to share knowledge with others interested in machine learning and customer segmentation.
+## Conclusion
+This case study highlights the potential of using unsupervised learning techniques for customer segmentation in the retail industry. The main goal was to apply all the knowledge learned during the course and try each Clustering Method seen in class and see practically how they perform in a real application.
